@@ -1,1 +1,1 @@
-# streamgress
+# Streaming Postgres to Kafka
